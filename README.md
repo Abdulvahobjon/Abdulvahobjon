@@ -2,7 +2,7 @@
 
 Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 
-[💼 Portfolio](https://abdul-vahob.netlify.app/) | [💬 Telegram](https://t.me/A_Abdulvahob) | 📧 abdullayevabdulvahob2002@gmail.com
+[💼 Portfolio](https://abdul-vahob.netlify.app/) | [💬 Telegram](https://t.me/A_Abdulvahob) | 📧 abdulvahob0714@gmail.com
 
 
 ## Texnologiyalar
