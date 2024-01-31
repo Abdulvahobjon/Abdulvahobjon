@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulvahob</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [IPRO](https://ipro-five.vercel.app)
+- 🔭 I’m currently working on [IPRO](https://ipro-five.vercel.app){:target="_blank"}
 
 - 🌱 I’m currently learning **Fremeworks**
 
-- 👨‍💻 All of my projects are available at [https://t.me/abdulvahob_portfolio](https://t.me/abdulvahob_portfolio)
+- 👨‍💻 All of my projects are available at [https://t.me/abdulvahob_portfolio](https://t.me/abdulvahob_portfolio){:target="_blank"}
 
-- 📝 I regularly write articles on [https://t.me/abs_javascript](https://t.me/abs_javascript)
+- 📝 I regularly write articles on [https://t.me/abs_javascript](https://t.me/abs_javascript){:target="_blank"}
 
 - 💬 Ask me about **HTMl,CSS , JS ,Next JS , SCSS , TailwindCSS**
 
