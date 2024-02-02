@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Fremeworks**
 
-- 👨‍💻 All of my projects are available at [https://t.me/abdulvahob_portfolio](https://t.me/abdulvahob_portfolio){:target="_blank"}
+- 👨‍💻 All of my projects are available at [https://t.me/abdulvahob_portfolio](https://t.me/abdulvahob_portfolio)
 
-- 📝 I regularly write articles on [https://t.me/abs_javascript](https://t.me/abs_javascript){:target="_blank"}
+- 📝 I regularly write articles on [https://t.me/abs_javascript](https://t.me/abs_javascript)
 
 - 💬 Ask me about **HTMl,CSS , JS ,Next JS , SCSS , TailwindCSS**
 
