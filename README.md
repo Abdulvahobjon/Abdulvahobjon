@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulvahob</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [IPRO](https://ipro-five.vercel.app:target="_blank")
+- 🔭 I’m currently working on freelancer
 
 - 🌱 I’m currently learning **Fremeworks**
 
