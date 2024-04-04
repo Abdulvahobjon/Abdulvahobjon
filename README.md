@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://t.me/abs_javascript](https://t.me/abs_javascript)
 
-- 💬 Ask me about **HTMl,CSS , JS ,Next JS , SCSS , TailwindCSS**
+- 💬 Ask me about **HTMl,CSS , JS ,Next JS , bootstrap, slider , gsap ( scroll ) , wow js , jQuery  , SCSS , TailwindCSS**
 
 - 📫 How to reach me **abdulvahob0714@gmail.com**
 
